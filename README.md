@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Methods Used](#Methods Used)
+* [Methods Used](#Methods-Used)
 * [SPECIFICATIONS](#SPECIFICATIONS)
 
 ## Instructions
