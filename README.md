@@ -5,6 +5,7 @@
 * [Instructions](#instructions)
 * [Methods Used](#Methods-Used)
 * [SPECIFICATIONS](#SPECIFICATIONS)
+* [SPECIFICATIONS](#SPECIFICATIONS)
 
 ## Instructions
 
